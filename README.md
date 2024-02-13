@@ -1,2 +1,3 @@
-# taller-mi-primera-web
-Mi primera página web desplegada en github actions
+# parallax_website
+
+visit the website:  https://ritesh-0309.github.io/parallax_website/
